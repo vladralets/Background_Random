@@ -1,2 +1,2 @@
-# Background_Random
+# Background Random
 Random BG Changer (study project)
